@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Step 1: Model ko load karein
-model = joblib.load('/Users/tanzeelaakbaricloude.com/Desktop/python/F2021266604.joblib')
+model = joblib.load('F2021266604.joblib')
 
 
 # Step 2: Prediction function define karein
